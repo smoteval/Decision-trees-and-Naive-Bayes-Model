@@ -3,7 +3,7 @@
 This was a really cool AI course porject.
 The full specifications can be found in asst3.pdf
 
-Classification Problem: We want classify the topic of some articles based on the words that appear in them.
+Classification Problem: We want to classify the topic of some articles based on the words that appear in them.
 
 First approach is to train a decision tree where the splits are based on the information gain of each word. You can find the implementation of the decision tree in Main.cc
 
